@@ -1,0 +1,9 @@
+#!/usr/bin/env zsh
+
+if pgrep -x "simulator" > /dev/null; then
+  donetick "Killing simulator..."
+  pkill simulator
+fi
+
+# sudo "$GARMIN_SDK_HOME/ConnectIQ.app/Contents/MacOS/simulator"
+open "$GARMIN_SDK_HOME/ConnectIQ.app"

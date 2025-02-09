@@ -1,0 +1,251 @@
+<resources>
+  <layout id="White">
+		<drawable class="Background" />
+    <!-- <drawable id="Colors" class="Components.Debug.Colors" /> -->
+    <!-- <drawable id="ticks" class="Components.Debug.Hashes" /> -->
+    <!-- <drawable id="arcs" class="Components.Debug.Arcs" /> -->
+    <!-- <drawable id="Fonts" class="Components.Debug.Fonts" /> -->
+    <!-- <drawable id="Text" class="Components.Debug.Text" /> -->
+
+    <!-- <drawable class="Components.Label"> -->
+    <!--   <param name="text">"100"</param> -->
+    <!--   <param name="font">:tertiary</param> -->
+    <!--   <param name="color">Colours.BLUE</param> -->
+
+    <!--   <!-1- <param name="offsetParentId">"testArc"</param> -1-> -->
+    <!--   <!-1- <param name="offsetRadius">60 - 8</param> -1-> -->
+    <!--   <!-1- <param name="offsetAngle">180</param> -1-> -->
+    <!-- </drawable> -->
+
+    <drawable id="hands" class="Components.Time.Analogue">
+      <param name="hourColor">Colours.PURPLE</param>
+      <param name="minuteColor">Colours.PINK</param>
+      <param name="secondColor">Colours.WHITE</param>
+    </drawable>
+
+    <drawable id="date" class="Components.Label">
+      <param name="data">:date</param>
+      <param name="font">:tertiary</param>
+      <param name="color">Colours.WHITE</param>
+      <param name="offsetRadius">70</param>
+      <param name="offsetAngle">0</param>
+    </drawable>
+
+    <!-- <drawable id="BatteryDial" class="Components.Dial"> -->
+    <!--   <param name="data">:batteryPercentage</param> -->
+    <!--   <param name="arcStart">260</param> -->
+    <!--   <param name="arcEnd">140</param> -->
+    <!--   <param name="arcRadius">20</param> -->
+    <!--   <param name="arcThickness">2</param> -->
+    <!--   <!-1- <param name="iconChar">"2"</param> -1-> -->
+    <!--   <param name="foreground">[Colours.BLUE, Colours.AQUA]</param> -->
+    <!--   <param name="background">0x666666</param> -->
+    <!--   <!-1- <param name="label">"Steps"</param> -1-> -->
+    <!--   <!-1- <param name="font">:tertiary</param> -1-> -->
+    <!--   <param name="offsetAngle">40</param> -->
+    <!--   <param name="offsetRadius">80</param> -->
+    <!-- </drawable> -->
+    <!-- <drawable id="batteryLabel" class="Components.Label"> -->
+    <!--   <param name="data">:battery</param> -->
+    <!--   <param name="font">:tertiary</param> -->
+    <!--   <param name="color">0xFFFFFF</param> -->
+    <!--   <param name="offsetAngle">40</param> -->
+    <!--   <param name="offsetRadius">80</param> -->
+    <!-- </drawable> -->
+
+    <drawable id="stepIcon" class="Components.Label">
+      <param name="text">"0"</param>
+      <param name="font">Rez.Fonts.IconFont</param>
+      <param name="color">0x888888</param>
+      <param name="offsetAngle">182</param>
+      <param name="offsetRadius">75</param>
+    </drawable>
+    <drawable id="mysteps" class="Components.Label">
+      <param name="data">:steps</param>
+      <param name="anchor">Components.LEFT</param>
+      <param name="font">:tertiary</param>
+      <param name="color">0xFFFFFF</param>
+      <param name="offsetAngle">170</param>
+      <param name="offsetRadius">68</param>
+    </drawable>
+    <drawable id="stepsgoal" class="Components.Label">
+      <param name="data">:stepsGoal</param>
+      <param name="anchor">Components.LEFT</param>
+      <!-- <param name="font">:smallest</param> -->
+      <param name="font">Graphics.FONT_XTINY</param>
+      <param name="color">0xFFFFFF</param>
+      <param name="offsetAngle">176</param>
+      <param name="offsetRadius">89</param>
+    </drawable>
+
+    <drawable id="SmallDial" class="Components.Dial">
+      <param name="data">:batteryPercentage</param>
+      <param name="arcStart">260</param>
+      <param name="arcEnd">140</param>
+      <param name="arcRadius">20</param>
+      <param name="arcThickness">4</param>
+      <!-- <param name="iconChar">"0"</param> -->
+      <param name="foreground">[Colours.BLUE, Colours.AQUA]</param>
+      <param name="background">0x666666</param>
+      <!-- <param name="label">"Steps"</param> -->
+      <!-- <param name="font">:tertiary</param> -->
+      <param name="offsetAngle">210</param>
+      <param name="offsetRadius">88</param>
+    </drawable>
+    <drawable id="batteryLabel" class="Components.Label">
+      <param name="data">:battery</param>
+      <!-- <param name="font">:smallest</param> -->
+      <param name="font">Graphics.FONT_XTINY</param>
+      <param name="color">0xFFFFFF</param>
+      <param name="offsetAngle">210</param>
+      <param name="offsetRadius">88</param>
+    </drawable>
+
+    <drawable id="BigDial" class="Components.Dial">
+      <param name="data">:rawStepsPercentage</param>
+      <param name="arcStart">225</param>
+      <param name="arcEnd">135</param>
+      <param name="arcRadius">Layout.fullHeight / 2</param>
+      <param name="arcThickness">8</param>
+      <param name="foreground">[Colours.BLUE, Colours.AQUA]</param>
+      <!-- <param name="background">Gfx.COLOR_TRANSPARENT</param> -->
+      <param name="variant">Components.RoundedArc.HASHED</param>
+      <param name="background">0x666666</param>
+    </drawable>
+		<drawable class="Components.MoveBar">
+			<param name="thickness">6</param>
+		</drawable>
+
+    <drawable class="Components.Labels">
+      <param name="datas">[:hours, :minutes]</param>
+      <param name="fonts">[:primary, :secondary]</param>
+      <param name="colors">[Colours.BLUE, Colours.WHITE]</param>
+    </drawable>
+  </layout>
+
+  <layout id="WhiteNext">
+		<drawable class="Background" />
+
+    <drawable id="steps" class="Components.RoundedArc">
+      <param name="data">:stepsPercentage</param>
+      <param name="start">225</param>
+      <param name="end">135</param>
+      <param name="radius">120</param>
+      <param name="foreground">Colours.WHITE</param>
+      <param name="background">0x252525</param>
+      <param name="thickness">10</param>
+    </drawable>
+
+    <drawable id="battery" class="Components.RoundedArc">
+      <param name="data">:batteryPercentage</param>
+      <param name="start">90</param>
+      <param name="end">180</param>
+      <param name="radius">30</param>
+      <param name="thickness">4</param>
+      <param name="foreground">Colours.GREEN</param>
+      <param name="background">Colours.YELLOW</param>
+      <!-- <param name="offsetRadius">10</param> -->
+      <!-- <param name="offsetAngle">0</param> -->
+      <param name="offsetRadius">60</param>
+      <param name="offsetAngle">130</param>
+    </drawable>
+
+    <drawable id="version" class="Components.Label">
+      <param name="text">"1"</param>
+      <param name="font">:tertiary</param>
+      <param name="color">0x888888</param>
+      <param name="offsetRadius">0.76</param>
+      <param name="offsetAngle">45</param>
+    </drawable>
+
+    <drawable id="date" class="Components.Label">
+      <param name="data">:date</param>
+      <param name="font">:tertiary</param>
+      <param name="color">0x888888</param>
+      <param name="offsetRadius">0.68</param>
+      <param name="offsetAngle">0</param>
+    </drawable>
+
+    <drawable id="stepIcon" class="Components.Label">
+      <param name="text">"0"</param>
+      <param name="font">Rez.Fonts.IconFont</param>
+      <param name="color">0x888888</param>
+      <!-- <param name="offsetRadius">0.77</param> -->
+      <!-- <param name="offsetAngle">188</param> -->
+    </drawable>
+
+    <drawable id="stepsCount" class="Components.Label">
+      <param name="data">:steps</param>
+      <param name="font">:tertiary</param>
+      <param name="color">0x888888</param>
+      <!-- <param name="offsetRadius">0.55</param> -->
+      <!-- <param name="offsetAngle">190</param> -->
+    </drawable>
+
+    <drawable id="stepsGoal" class="Components.Label">
+      <param name="data">:stepsGoal</param>
+      <param name="font">:tertiary</param>
+      <param name="color">0x888888</param>
+      <!-- <param name="offsetRadius">0.68</param> -->
+      <!-- <param name="offsetAngle">170</param> -->
+    </drawable>
+
+    <drawable id="stepsContainer" class="Components.Container">
+      <param name="xOffset">-8</param>
+      <param name="yOffset">80</param>
+      <param name="xGap">4</param>
+      <param name="children">["stepIcon", "stepsCount", "stepsGoal"]</param>
+    </drawable>
+
+    <!-- Time -->
+    <drawable id="hours" class="Components.Label">
+      <param name="data">:hours</param>
+      <param name="font">:primary</param>
+      <param name="color">Colours.AQUA</param>
+    </drawable>
+    <drawable id="minutes" class="Components.Label">
+      <param name="data">:minutes</param>
+      <param name="font">:secondary</param>
+      <param name="color">Gfx.COLOR_PINK</param>
+    </drawable>
+    <drawable id="timeContainer" class="Components.Container">
+      <param name="children">["hours", "minutes"]</param>
+    </drawable>
+
+		<drawable class="Components.MoveBar">
+			<param name="thickness">6</param>
+		</drawable>
+  </layout>
+
+	<layout id="Digital">
+		<drawable class="Background" />
+
+    <label text="Page Heading" x="10" y="25" font="Gfx.FONT_LARGE" color="Gfx.COLOR_BLACK" />
+
+		<!-- <drawable id="Date" class="HorizontalDate"> -->
+		<!-- 	<param name="offset">74</param> -->
+		<!-- 	<param name="offsetAngle">0</param> -->
+		<!-- </drawable> -->
+
+		<drawable id="Time" class="Components.Time.Digital" />
+
+		<!-- <drawable class="Metric"> -->
+		<!-- 	<param name="metric">:steps</param> -->
+		<!-- 	<param name="offset">68</param> -->
+		<!-- 	<param name="offsetAngle">180</param> -->
+		<!-- </drawable> -->
+
+		<drawable id="Dial" class="Components.PrimaryDial">
+			<param name="thickness">6</param>
+		</drawable>
+
+		<drawable class="Components.MoveBar">
+			<param name="thickness">6</param>
+		</drawable>
+
+		<!-- <drawable class="Components.Battery"> -->
+		<!-- 	<param name="offset">74</param> -->
+		<!-- 	<param name="offsetAngle">124</param> -->
+		<!-- </drawable> -->
+	</layout>
+</resources>

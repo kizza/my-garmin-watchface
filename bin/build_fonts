@@ -1,0 +1,90 @@
+#!/usr/bin/env zsh
+
+FONTBM_PATH="bin/fontbm"
+PATH="$PATH:$FONTBM_PATH"
+FONTS_DIR="resources/fonts"
+SOURCE_DIR="source/Fonts"
+FONT_SIZES=(16 18 20 24 90 120 144)
+
+# Check if FontForge is installed
+if ! command -v fontbm &> /dev/null; then
+  echo "fontbm was not found. Please install it and try again."
+  exit 1
+fi
+
+build_font() {
+  local FONT=$1
+  local SIZE=$2
+  local CHARS=$(map_char_codes $3)
+
+  fontbm --font-file "$SOURCE_DIR/ttf/$FONT.ttf" \
+    --output "$FONTS_DIR/bitmap/$FONT-$SIZE" \
+    --background-color 0,0,0 \
+    --font-size $SIZE \
+    --chars $CHARS
+}
+
+pascal_to_snake() {
+  echo "$1" | sed -E 's/([a-z])([A-Z])/\1_\2/g' | tr '[:lower:]' '[:upper:]'
+}
+
+map_char_codes() {
+  local input="$1"
+  local codes=""
+  length=${#string}
+  for (( i=0; i<${#input}; i++ )); do
+    char="${input:$i:1}"              # extract each character
+    code=$(printf '%d' "'$char")      # get ascii code
+    codes+="$code,"                   # append ascii code with a comma
+  done
+  echo ${codes%,}
+}
+
+clean_font_name() {
+  echo "$1" | sed 's/[^a-zA-Z0-9]//g'
+}
+
+# Prepare new fonts.xml
+heading "Building fonts"
+rm "$FONTS_DIR/bitmap"/* # Clear bitmap directory
+cp "$SOURCE_DIR/fonts.template.xml" "$SOURCE_DIR/fonts.available.xml"
+
+# Prepare new Fonts.mc
+# OUTPUT_FILE="resources/fonts/Fonts.mc"
+# echo "// Generated file" > "$OUTPUT_FILE"
+# echo "import Toybox.Lang;\n" >> "$OUTPUT_FILE"
+# echo "module Fonts {" >> "$OUTPUT_FILE"
+# echo "  var resources as Dictionary<Symbol, Dictionary<Number, ResourceId>> = {" >> "$OUTPUT_FILE"
+
+# Enumerate files in the directory
+for file in "$SOURCE_DIR/ttf"/*; do
+  if [ -f "$file" ]; then # Skip directories
+    # Convert to bitmap font
+    font=$(basename "$file" .ttf) # No dir or ext
+    slug=$(clean_font_name "$font")
+
+    donetick "Building $font font..."
+    # echo "    :$slug => {" >> "$OUTPUT_FILE"
+    for size in "${FONT_SIZES[@]}"; do
+      # Generate bitmap font
+      chars="0123456789"
+      # [[ $size < 40 ]] && chars="${chars} MonTueWdhFriSatJbApylgOcNvD"
+      (( $size < 40 )) && chars="${chars} ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz"
+      build_font "$font" "$size" "$chars"
+
+      # Append to fonts.xml
+      file_name="$font-$size"
+      new_entry="  <font id=\"$slug$size\" filename=\"bitmap/$file_name.fnt\" filter=\"$chars\" antialias=\"true\" />"
+      sed -i "s|</fonts>|$new_entry\n</fonts>|" "$SOURCE_DIR/fonts.available.xml"
+
+      # Append to Fonts.mc
+      # echo "      $size => Rez.Fonts.$slug$size," >> "$OUTPUT_FILE"
+    done
+    # echo "    }," >> "$OUTPUT_FILE"
+  fi
+done
+
+# Close Fonts.mc
+# echo "  };" >> "$OUTPUT_FILE"
+# echo "}" >> "$OUTPUT_FILE"
+# donetick "Built Fonts.mc resource"

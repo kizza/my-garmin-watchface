@@ -1,0 +1,340 @@
+<fonts>
+  <font id="IconFont" filename="icons.fnt" filter="0123456789" antialias="true" />
+  <!-- converted bitmap fonts generated below -->
+  <font id="AdventProBold16" filename="bitmap/AdventPro-Bold-16.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="AdventProBold18" filename="bitmap/AdventPro-Bold-18.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="AdventProBold20" filename="bitmap/AdventPro-Bold-20.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="AdventProBold24" filename="bitmap/AdventPro-Bold-24.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="AdventProBold90" filename="bitmap/AdventPro-Bold-90.fnt" filter="0123456789" antialias="true" />
+  <font id="AdventProBold120" filename="bitmap/AdventPro-Bold-120.fnt" filter="0123456789" antialias="true" />
+  <font id="AdventProBold144" filename="bitmap/AdventPro-Bold-144.fnt" filter="0123456789" antialias="true" />
+  <font id="AdventProRegular16" filename="bitmap/AdventPro-Regular-16.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="AdventProRegular18" filename="bitmap/AdventPro-Regular-18.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="AdventProRegular20" filename="bitmap/AdventPro-Regular-20.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="AdventProRegular24" filename="bitmap/AdventPro-Regular-24.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="AdventProRegular90" filename="bitmap/AdventPro-Regular-90.fnt" filter="0123456789" antialias="true" />
+  <font id="AdventProRegular120" filename="bitmap/AdventPro-Regular-120.fnt" filter="0123456789" antialias="true" />
+  <font id="AdventProRegular144" filename="bitmap/AdventPro-Regular-144.fnt" filter="0123456789" antialias="true" />
+  <font id="AdventProThin16" filename="bitmap/AdventPro-Thin-16.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="AdventProThin18" filename="bitmap/AdventPro-Thin-18.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="AdventProThin20" filename="bitmap/AdventPro-Thin-20.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="AdventProThin24" filename="bitmap/AdventPro-Thin-24.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="AdventProThin90" filename="bitmap/AdventPro-Thin-90.fnt" filter="0123456789" antialias="true" />
+  <font id="AdventProThin120" filename="bitmap/AdventPro-Thin-120.fnt" filter="0123456789" antialias="true" />
+  <font id="AdventProThin144" filename="bitmap/AdventPro-Thin-144.fnt" filter="0123456789" antialias="true" />
+  <font id="AlataRegular16" filename="bitmap/Alata-Regular-16.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="AlataRegular18" filename="bitmap/Alata-Regular-18.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="AlataRegular20" filename="bitmap/Alata-Regular-20.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="AlataRegular24" filename="bitmap/Alata-Regular-24.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="AlataRegular90" filename="bitmap/Alata-Regular-90.fnt" filter="0123456789" antialias="true" />
+  <font id="AlataRegular120" filename="bitmap/Alata-Regular-120.fnt" filter="0123456789" antialias="true" />
+  <font id="AlataRegular144" filename="bitmap/Alata-Regular-144.fnt" filter="0123456789" antialias="true" />
+  <font id="AntonRegular16" filename="bitmap/Anton-Regular-16.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="AntonRegular18" filename="bitmap/Anton-Regular-18.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="AntonRegular20" filename="bitmap/Anton-Regular-20.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="AntonRegular24" filename="bitmap/Anton-Regular-24.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="AntonRegular90" filename="bitmap/Anton-Regular-90.fnt" filter="0123456789" antialias="true" />
+  <font id="AntonRegular120" filename="bitmap/Anton-Regular-120.fnt" filter="0123456789" antialias="true" />
+  <font id="AntonRegular144" filename="bitmap/Anton-Regular-144.fnt" filter="0123456789" antialias="true" />
+  <font id="ArvoBold16" filename="bitmap/Arvo-Bold-16.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="ArvoBold18" filename="bitmap/Arvo-Bold-18.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="ArvoBold20" filename="bitmap/Arvo-Bold-20.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="ArvoBold24" filename="bitmap/Arvo-Bold-24.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="ArvoBold90" filename="bitmap/Arvo-Bold-90.fnt" filter="0123456789" antialias="true" />
+  <font id="ArvoBold120" filename="bitmap/Arvo-Bold-120.fnt" filter="0123456789" antialias="true" />
+  <font id="ArvoBold144" filename="bitmap/Arvo-Bold-144.fnt" filter="0123456789" antialias="true" />
+  <font id="ArvoRegular16" filename="bitmap/Arvo-Regular-16.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="ArvoRegular18" filename="bitmap/Arvo-Regular-18.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="ArvoRegular20" filename="bitmap/Arvo-Regular-20.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="ArvoRegular24" filename="bitmap/Arvo-Regular-24.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="ArvoRegular90" filename="bitmap/Arvo-Regular-90.fnt" filter="0123456789" antialias="true" />
+  <font id="ArvoRegular120" filename="bitmap/Arvo-Regular-120.fnt" filter="0123456789" antialias="true" />
+  <font id="ArvoRegular144" filename="bitmap/Arvo-Regular-144.fnt" filter="0123456789" antialias="true" />
+  <font id="AveriaLibreBold16" filename="bitmap/AveriaLibre-Bold-16.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="AveriaLibreBold18" filename="bitmap/AveriaLibre-Bold-18.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="AveriaLibreBold20" filename="bitmap/AveriaLibre-Bold-20.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="AveriaLibreBold24" filename="bitmap/AveriaLibre-Bold-24.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="AveriaLibreBold90" filename="bitmap/AveriaLibre-Bold-90.fnt" filter="0123456789" antialias="true" />
+  <font id="AveriaLibreBold120" filename="bitmap/AveriaLibre-Bold-120.fnt" filter="0123456789" antialias="true" />
+  <font id="AveriaLibreBold144" filename="bitmap/AveriaLibre-Bold-144.fnt" filter="0123456789" antialias="true" />
+  <font id="AveriaLibreLight16" filename="bitmap/AveriaLibre-Light-16.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="AveriaLibreLight18" filename="bitmap/AveriaLibre-Light-18.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="AveriaLibreLight20" filename="bitmap/AveriaLibre-Light-20.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="AveriaLibreLight24" filename="bitmap/AveriaLibre-Light-24.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="AveriaLibreLight90" filename="bitmap/AveriaLibre-Light-90.fnt" filter="0123456789" antialias="true" />
+  <font id="AveriaLibreLight120" filename="bitmap/AveriaLibre-Light-120.fnt" filter="0123456789" antialias="true" />
+  <font id="AveriaLibreLight144" filename="bitmap/AveriaLibre-Light-144.fnt" filter="0123456789" antialias="true" />
+  <font id="AveriaLibreRegular16" filename="bitmap/AveriaLibre-Regular-16.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="AveriaLibreRegular18" filename="bitmap/AveriaLibre-Regular-18.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="AveriaLibreRegular20" filename="bitmap/AveriaLibre-Regular-20.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="AveriaLibreRegular24" filename="bitmap/AveriaLibre-Regular-24.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="AveriaLibreRegular90" filename="bitmap/AveriaLibre-Regular-90.fnt" filter="0123456789" antialias="true" />
+  <font id="AveriaLibreRegular120" filename="bitmap/AveriaLibre-Regular-120.fnt" filter="0123456789" antialias="true" />
+  <font id="AveriaLibreRegular144" filename="bitmap/AveriaLibre-Regular-144.fnt" filter="0123456789" antialias="true" />
+  <font id="BalooBhaina2Regular16" filename="bitmap/BalooBhaina2-Regular-16.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="BalooBhaina2Regular18" filename="bitmap/BalooBhaina2-Regular-18.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="BalooBhaina2Regular20" filename="bitmap/BalooBhaina2-Regular-20.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="BalooBhaina2Regular24" filename="bitmap/BalooBhaina2-Regular-24.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="BalooBhaina2Regular90" filename="bitmap/BalooBhaina2-Regular-90.fnt" filter="0123456789" antialias="true" />
+  <font id="BalooBhaina2Regular120" filename="bitmap/BalooBhaina2-Regular-120.fnt" filter="0123456789" antialias="true" />
+  <font id="BalooBhaina2Regular144" filename="bitmap/BalooBhaina2-Regular-144.fnt" filter="0123456789" antialias="true" />
+  <font id="BangersRegular16" filename="bitmap/Bangers-Regular-16.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="BangersRegular18" filename="bitmap/Bangers-Regular-18.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="BangersRegular20" filename="bitmap/Bangers-Regular-20.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="BangersRegular24" filename="bitmap/Bangers-Regular-24.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="BangersRegular90" filename="bitmap/Bangers-Regular-90.fnt" filter="0123456789" antialias="true" />
+  <font id="BangersRegular120" filename="bitmap/Bangers-Regular-120.fnt" filter="0123456789" antialias="true" />
+  <font id="BangersRegular144" filename="bitmap/Bangers-Regular-144.fnt" filter="0123456789" antialias="true" />
+  <font id="BricolageGrotesqueRegular16" filename="bitmap/BricolageGrotesque-Regular-16.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="BricolageGrotesqueRegular18" filename="bitmap/BricolageGrotesque-Regular-18.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="BricolageGrotesqueRegular20" filename="bitmap/BricolageGrotesque-Regular-20.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="BricolageGrotesqueRegular24" filename="bitmap/BricolageGrotesque-Regular-24.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="BricolageGrotesqueRegular90" filename="bitmap/BricolageGrotesque-Regular-90.fnt" filter="0123456789" antialias="true" />
+  <font id="BricolageGrotesqueRegular120" filename="bitmap/BricolageGrotesque-Regular-120.fnt" filter="0123456789" antialias="true" />
+  <font id="BricolageGrotesqueRegular144" filename="bitmap/BricolageGrotesque-Regular-144.fnt" filter="0123456789" antialias="true" />
+  <font id="ComfortaaRegular16" filename="bitmap/Comfortaa-Regular-16.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="ComfortaaRegular18" filename="bitmap/Comfortaa-Regular-18.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="ComfortaaRegular20" filename="bitmap/Comfortaa-Regular-20.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="ComfortaaRegular24" filename="bitmap/Comfortaa-Regular-24.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="ComfortaaRegular90" filename="bitmap/Comfortaa-Regular-90.fnt" filter="0123456789" antialias="true" />
+  <font id="ComfortaaRegular120" filename="bitmap/Comfortaa-Regular-120.fnt" filter="0123456789" antialias="true" />
+  <font id="ComfortaaRegular144" filename="bitmap/Comfortaa-Regular-144.fnt" filter="0123456789" antialias="true" />
+  <font id="DidactGothicRegular16" filename="bitmap/DidactGothic-Regular-16.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="DidactGothicRegular18" filename="bitmap/DidactGothic-Regular-18.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="DidactGothicRegular20" filename="bitmap/DidactGothic-Regular-20.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="DidactGothicRegular24" filename="bitmap/DidactGothic-Regular-24.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="DidactGothicRegular90" filename="bitmap/DidactGothic-Regular-90.fnt" filter="0123456789" antialias="true" />
+  <font id="DidactGothicRegular120" filename="bitmap/DidactGothic-Regular-120.fnt" filter="0123456789" antialias="true" />
+  <font id="DidactGothicRegular144" filename="bitmap/DidactGothic-Regular-144.fnt" filter="0123456789" antialias="true" />
+  <font id="FugazOneRegular16" filename="bitmap/FugazOne-Regular-16.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="FugazOneRegular18" filename="bitmap/FugazOne-Regular-18.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="FugazOneRegular20" filename="bitmap/FugazOne-Regular-20.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="FugazOneRegular24" filename="bitmap/FugazOne-Regular-24.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="FugazOneRegular90" filename="bitmap/FugazOne-Regular-90.fnt" filter="0123456789" antialias="true" />
+  <font id="FugazOneRegular120" filename="bitmap/FugazOne-Regular-120.fnt" filter="0123456789" antialias="true" />
+  <font id="FugazOneRegular144" filename="bitmap/FugazOne-Regular-144.fnt" filter="0123456789" antialias="true" />
+  <font id="GeologicaRegular16" filename="bitmap/Geologica-Regular-16.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="GeologicaRegular18" filename="bitmap/Geologica-Regular-18.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="GeologicaRegular20" filename="bitmap/Geologica-Regular-20.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="GeologicaRegular24" filename="bitmap/Geologica-Regular-24.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="GeologicaRegular90" filename="bitmap/Geologica-Regular-90.fnt" filter="0123456789" antialias="true" />
+  <font id="GeologicaRegular120" filename="bitmap/Geologica-Regular-120.fnt" filter="0123456789" antialias="true" />
+  <font id="GeologicaRegular144" filename="bitmap/Geologica-Regular-144.fnt" filter="0123456789" antialias="true" />
+  <font id="GruppoRegular16" filename="bitmap/Gruppo-Regular-16.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="GruppoRegular18" filename="bitmap/Gruppo-Regular-18.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="GruppoRegular20" filename="bitmap/Gruppo-Regular-20.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="GruppoRegular24" filename="bitmap/Gruppo-Regular-24.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="GruppoRegular90" filename="bitmap/Gruppo-Regular-90.fnt" filter="0123456789" antialias="true" />
+  <font id="GruppoRegular120" filename="bitmap/Gruppo-Regular-120.fnt" filter="0123456789" antialias="true" />
+  <font id="GruppoRegular144" filename="bitmap/Gruppo-Regular-144.fnt" filter="0123456789" antialias="true" />
+  <font id="HindMaduraiRegular16" filename="bitmap/HindMadurai-Regular-16.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="HindMaduraiRegular18" filename="bitmap/HindMadurai-Regular-18.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="HindMaduraiRegular20" filename="bitmap/HindMadurai-Regular-20.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="HindMaduraiRegular24" filename="bitmap/HindMadurai-Regular-24.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="HindMaduraiRegular90" filename="bitmap/HindMadurai-Regular-90.fnt" filter="0123456789" antialias="true" />
+  <font id="HindMaduraiRegular120" filename="bitmap/HindMadurai-Regular-120.fnt" filter="0123456789" antialias="true" />
+  <font id="HindMaduraiRegular144" filename="bitmap/HindMadurai-Regular-144.fnt" filter="0123456789" antialias="true" />
+  <font id="KanitRegular16" filename="bitmap/Kanit-Regular-16.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="KanitRegular18" filename="bitmap/Kanit-Regular-18.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="KanitRegular20" filename="bitmap/Kanit-Regular-20.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="KanitRegular24" filename="bitmap/Kanit-Regular-24.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="KanitRegular90" filename="bitmap/Kanit-Regular-90.fnt" filter="0123456789" antialias="true" />
+  <font id="KanitRegular120" filename="bitmap/Kanit-Regular-120.fnt" filter="0123456789" antialias="true" />
+  <font id="KanitRegular144" filename="bitmap/Kanit-Regular-144.fnt" filter="0123456789" antialias="true" />
+  <font id="LalezarRegular16" filename="bitmap/Lalezar-Regular-16.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="LalezarRegular18" filename="bitmap/Lalezar-Regular-18.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="LalezarRegular20" filename="bitmap/Lalezar-Regular-20.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="LalezarRegular24" filename="bitmap/Lalezar-Regular-24.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="LalezarRegular90" filename="bitmap/Lalezar-Regular-90.fnt" filter="0123456789" antialias="true" />
+  <font id="LalezarRegular120" filename="bitmap/Lalezar-Regular-120.fnt" filter="0123456789" antialias="true" />
+  <font id="LalezarRegular144" filename="bitmap/Lalezar-Regular-144.fnt" filter="0123456789" antialias="true" />
+  <font id="LilitaOneRegular16" filename="bitmap/LilitaOne-Regular-16.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="LilitaOneRegular18" filename="bitmap/LilitaOne-Regular-18.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="LilitaOneRegular20" filename="bitmap/LilitaOne-Regular-20.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="LilitaOneRegular24" filename="bitmap/LilitaOne-Regular-24.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="LilitaOneRegular90" filename="bitmap/LilitaOne-Regular-90.fnt" filter="0123456789" antialias="true" />
+  <font id="LilitaOneRegular120" filename="bitmap/LilitaOne-Regular-120.fnt" filter="0123456789" antialias="true" />
+  <font id="LilitaOneRegular144" filename="bitmap/LilitaOne-Regular-144.fnt" filter="0123456789" antialias="true" />
+  <font id="LuckiestGuyRegular16" filename="bitmap/LuckiestGuy-Regular-16.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="LuckiestGuyRegular18" filename="bitmap/LuckiestGuy-Regular-18.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="LuckiestGuyRegular20" filename="bitmap/LuckiestGuy-Regular-20.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="LuckiestGuyRegular24" filename="bitmap/LuckiestGuy-Regular-24.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="LuckiestGuyRegular90" filename="bitmap/LuckiestGuy-Regular-90.fnt" filter="0123456789" antialias="true" />
+  <font id="LuckiestGuyRegular120" filename="bitmap/LuckiestGuy-Regular-120.fnt" filter="0123456789" antialias="true" />
+  <font id="LuckiestGuyRegular144" filename="bitmap/LuckiestGuy-Regular-144.fnt" filter="0123456789" antialias="true" />
+  <font id="MajorMonoDisplayRegular16" filename="bitmap/MajorMonoDisplay-Regular-16.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="MajorMonoDisplayRegular18" filename="bitmap/MajorMonoDisplay-Regular-18.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="MajorMonoDisplayRegular20" filename="bitmap/MajorMonoDisplay-Regular-20.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="MajorMonoDisplayRegular24" filename="bitmap/MajorMonoDisplay-Regular-24.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="MajorMonoDisplayRegular90" filename="bitmap/MajorMonoDisplay-Regular-90.fnt" filter="0123456789" antialias="true" />
+  <font id="MajorMonoDisplayRegular120" filename="bitmap/MajorMonoDisplay-Regular-120.fnt" filter="0123456789" antialias="true" />
+  <font id="MajorMonoDisplayRegular144" filename="bitmap/MajorMonoDisplay-Regular-144.fnt" filter="0123456789" antialias="true" />
+  <font id="OutfitRegular16" filename="bitmap/Outfit-Regular-16.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="OutfitRegular18" filename="bitmap/Outfit-Regular-18.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="OutfitRegular20" filename="bitmap/Outfit-Regular-20.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="OutfitRegular24" filename="bitmap/Outfit-Regular-24.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="OutfitRegular90" filename="bitmap/Outfit-Regular-90.fnt" filter="0123456789" antialias="true" />
+  <font id="OutfitRegular120" filename="bitmap/Outfit-Regular-120.fnt" filter="0123456789" antialias="true" />
+  <font id="OutfitRegular144" filename="bitmap/Outfit-Regular-144.fnt" filter="0123456789" antialias="true" />
+  <font id="PacificoRegular16" filename="bitmap/Pacifico-Regular-16.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="PacificoRegular18" filename="bitmap/Pacifico-Regular-18.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="PacificoRegular20" filename="bitmap/Pacifico-Regular-20.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="PacificoRegular24" filename="bitmap/Pacifico-Regular-24.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="PacificoRegular90" filename="bitmap/Pacifico-Regular-90.fnt" filter="0123456789" antialias="true" />
+  <font id="PacificoRegular120" filename="bitmap/Pacifico-Regular-120.fnt" filter="0123456789" antialias="true" />
+  <font id="PacificoRegular144" filename="bitmap/Pacifico-Regular-144.fnt" filter="0123456789" antialias="true" />
+  <font id="PassionOneRegular16" filename="bitmap/PassionOne-Regular-16.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="PassionOneRegular18" filename="bitmap/PassionOne-Regular-18.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="PassionOneRegular20" filename="bitmap/PassionOne-Regular-20.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="PassionOneRegular24" filename="bitmap/PassionOne-Regular-24.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="PassionOneRegular90" filename="bitmap/PassionOne-Regular-90.fnt" filter="0123456789" antialias="true" />
+  <font id="PassionOneRegular120" filename="bitmap/PassionOne-Regular-120.fnt" filter="0123456789" antialias="true" />
+  <font id="PassionOneRegular144" filename="bitmap/PassionOne-Regular-144.fnt" filter="0123456789" antialias="true" />
+  <font id="PoiretOneRegular16" filename="bitmap/PoiretOne-Regular-16.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="PoiretOneRegular18" filename="bitmap/PoiretOne-Regular-18.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="PoiretOneRegular20" filename="bitmap/PoiretOne-Regular-20.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="PoiretOneRegular24" filename="bitmap/PoiretOne-Regular-24.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="PoiretOneRegular90" filename="bitmap/PoiretOne-Regular-90.fnt" filter="0123456789" antialias="true" />
+  <font id="PoiretOneRegular120" filename="bitmap/PoiretOne-Regular-120.fnt" filter="0123456789" antialias="true" />
+  <font id="PoiretOneRegular144" filename="bitmap/PoiretOne-Regular-144.fnt" filter="0123456789" antialias="true" />
+  <font id="ReadexProRegular16" filename="bitmap/ReadexPro-Regular-16.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="ReadexProRegular18" filename="bitmap/ReadexPro-Regular-18.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="ReadexProRegular20" filename="bitmap/ReadexPro-Regular-20.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="ReadexProRegular24" filename="bitmap/ReadexPro-Regular-24.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="ReadexProRegular90" filename="bitmap/ReadexPro-Regular-90.fnt" filter="0123456789" antialias="true" />
+  <font id="ReadexProRegular120" filename="bitmap/ReadexPro-Regular-120.fnt" filter="0123456789" antialias="true" />
+  <font id="ReadexProRegular144" filename="bitmap/ReadexPro-Regular-144.fnt" filter="0123456789" antialias="true" />
+  <font id="RedHatDisplayRegular16" filename="bitmap/RedHatDisplay-Regular-16.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="RedHatDisplayRegular18" filename="bitmap/RedHatDisplay-Regular-18.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="RedHatDisplayRegular20" filename="bitmap/RedHatDisplay-Regular-20.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="RedHatDisplayRegular24" filename="bitmap/RedHatDisplay-Regular-24.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="RedHatDisplayRegular90" filename="bitmap/RedHatDisplay-Regular-90.fnt" filter="0123456789" antialias="true" />
+  <font id="RedHatDisplayRegular120" filename="bitmap/RedHatDisplay-Regular-120.fnt" filter="0123456789" antialias="true" />
+  <font id="RedHatDisplayRegular144" filename="bitmap/RedHatDisplay-Regular-144.fnt" filter="0123456789" antialias="true" />
+  <font id="RedHatTextRegular16" filename="bitmap/RedHatText-Regular-16.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="RedHatTextRegular18" filename="bitmap/RedHatText-Regular-18.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="RedHatTextRegular20" filename="bitmap/RedHatText-Regular-20.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="RedHatTextRegular24" filename="bitmap/RedHatText-Regular-24.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="RedHatTextRegular90" filename="bitmap/RedHatText-Regular-90.fnt" filter="0123456789" antialias="true" />
+  <font id="RedHatTextRegular120" filename="bitmap/RedHatText-Regular-120.fnt" filter="0123456789" antialias="true" />
+  <font id="RedHatTextRegular144" filename="bitmap/RedHatText-Regular-144.fnt" filter="0123456789" antialias="true" />
+  <font id="ReemKufiRegular16" filename="bitmap/ReemKufi-Regular-16.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="ReemKufiRegular18" filename="bitmap/ReemKufi-Regular-18.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="ReemKufiRegular20" filename="bitmap/ReemKufi-Regular-20.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="ReemKufiRegular24" filename="bitmap/ReemKufi-Regular-24.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="ReemKufiRegular90" filename="bitmap/ReemKufi-Regular-90.fnt" filter="0123456789" antialias="true" />
+  <font id="ReemKufiRegular120" filename="bitmap/ReemKufi-Regular-120.fnt" filter="0123456789" antialias="true" />
+  <font id="ReemKufiRegular144" filename="bitmap/ReemKufi-Regular-144.fnt" filter="0123456789" antialias="true" />
+  <font id="RobotoBlack16" filename="bitmap/Roboto-Black-16.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="RobotoBlack18" filename="bitmap/Roboto-Black-18.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="RobotoBlack20" filename="bitmap/Roboto-Black-20.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="RobotoBlack24" filename="bitmap/Roboto-Black-24.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="RobotoBlack90" filename="bitmap/Roboto-Black-90.fnt" filter="0123456789" antialias="true" />
+  <font id="RobotoBlack120" filename="bitmap/Roboto-Black-120.fnt" filter="0123456789" antialias="true" />
+  <font id="RobotoBlack144" filename="bitmap/Roboto-Black-144.fnt" filter="0123456789" antialias="true" />
+  <font id="RobotoRegular16" filename="bitmap/Roboto-Regular-16.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="RobotoRegular18" filename="bitmap/Roboto-Regular-18.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="RobotoRegular20" filename="bitmap/Roboto-Regular-20.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="RobotoRegular24" filename="bitmap/Roboto-Regular-24.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="RobotoRegular90" filename="bitmap/Roboto-Regular-90.fnt" filter="0123456789" antialias="true" />
+  <font id="RobotoRegular120" filename="bitmap/Roboto-Regular-120.fnt" filter="0123456789" antialias="true" />
+  <font id="RobotoRegular144" filename="bitmap/Roboto-Regular-144.fnt" filter="0123456789" antialias="true" />
+  <font id="RobotoThin16" filename="bitmap/Roboto-Thin-16.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="RobotoThin18" filename="bitmap/Roboto-Thin-18.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="RobotoThin20" filename="bitmap/Roboto-Thin-20.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="RobotoThin24" filename="bitmap/Roboto-Thin-24.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="RobotoThin90" filename="bitmap/Roboto-Thin-90.fnt" filter="0123456789" antialias="true" />
+  <font id="RobotoThin120" filename="bitmap/Roboto-Thin-120.fnt" filter="0123456789" antialias="true" />
+  <font id="RobotoThin144" filename="bitmap/Roboto-Thin-144.fnt" filter="0123456789" antialias="true" />
+  <font id="RobotoFlexRegular16" filename="bitmap/RobotoFlex-Regular-16.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="RobotoFlexRegular18" filename="bitmap/RobotoFlex-Regular-18.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="RobotoFlexRegular20" filename="bitmap/RobotoFlex-Regular-20.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="RobotoFlexRegular24" filename="bitmap/RobotoFlex-Regular-24.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="RobotoFlexRegular90" filename="bitmap/RobotoFlex-Regular-90.fnt" filter="0123456789" antialias="true" />
+  <font id="RobotoFlexRegular120" filename="bitmap/RobotoFlex-Regular-120.fnt" filter="0123456789" antialias="true" />
+  <font id="RobotoFlexRegular144" filename="bitmap/RobotoFlex-Regular-144.fnt" filter="0123456789" antialias="true" />
+  <font id="RobotoSlabRegular16" filename="bitmap/RobotoSlab-Regular-16.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="RobotoSlabRegular18" filename="bitmap/RobotoSlab-Regular-18.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="RobotoSlabRegular20" filename="bitmap/RobotoSlab-Regular-20.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="RobotoSlabRegular24" filename="bitmap/RobotoSlab-Regular-24.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="RobotoSlabRegular90" filename="bitmap/RobotoSlab-Regular-90.fnt" filter="0123456789" antialias="true" />
+  <font id="RobotoSlabRegular120" filename="bitmap/RobotoSlab-Regular-120.fnt" filter="0123456789" antialias="true" />
+  <font id="RobotoSlabRegular144" filename="bitmap/RobotoSlab-Regular-144.fnt" filter="0123456789" antialias="true" />
+  <font id="RobotoCondensedBlack16" filename="bitmap/Roboto_Condensed-Black-16.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="RobotoCondensedBlack18" filename="bitmap/Roboto_Condensed-Black-18.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="RobotoCondensedBlack20" filename="bitmap/Roboto_Condensed-Black-20.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="RobotoCondensedBlack24" filename="bitmap/Roboto_Condensed-Black-24.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="RobotoCondensedBlack90" filename="bitmap/Roboto_Condensed-Black-90.fnt" filter="0123456789" antialias="true" />
+  <font id="RobotoCondensedBlack120" filename="bitmap/Roboto_Condensed-Black-120.fnt" filter="0123456789" antialias="true" />
+  <font id="RobotoCondensedBlack144" filename="bitmap/Roboto_Condensed-Black-144.fnt" filter="0123456789" antialias="true" />
+  <font id="SairaSemiCondensedRegular16" filename="bitmap/SairaSemiCondensed-Regular-16.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="SairaSemiCondensedRegular18" filename="bitmap/SairaSemiCondensed-Regular-18.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="SairaSemiCondensedRegular20" filename="bitmap/SairaSemiCondensed-Regular-20.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="SairaSemiCondensedRegular24" filename="bitmap/SairaSemiCondensed-Regular-24.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="SairaSemiCondensedRegular90" filename="bitmap/SairaSemiCondensed-Regular-90.fnt" filter="0123456789" antialias="true" />
+  <font id="SairaSemiCondensedRegular120" filename="bitmap/SairaSemiCondensed-Regular-120.fnt" filter="0123456789" antialias="true" />
+  <font id="SairaSemiCondensedRegular144" filename="bitmap/SairaSemiCondensed-Regular-144.fnt" filter="0123456789" antialias="true" />
+  <font id="SourceCodeProBold16" filename="bitmap/SourceCodePro-Bold-16.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="SourceCodeProBold18" filename="bitmap/SourceCodePro-Bold-18.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="SourceCodeProBold20" filename="bitmap/SourceCodePro-Bold-20.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="SourceCodeProBold24" filename="bitmap/SourceCodePro-Bold-24.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="SourceCodeProBold90" filename="bitmap/SourceCodePro-Bold-90.fnt" filter="0123456789" antialias="true" />
+  <font id="SourceCodeProBold120" filename="bitmap/SourceCodePro-Bold-120.fnt" filter="0123456789" antialias="true" />
+  <font id="SourceCodeProBold144" filename="bitmap/SourceCodePro-Bold-144.fnt" filter="0123456789" antialias="true" />
+  <font id="SourceCodeProLight16" filename="bitmap/SourceCodePro-Light-16.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="SourceCodeProLight18" filename="bitmap/SourceCodePro-Light-18.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="SourceCodeProLight20" filename="bitmap/SourceCodePro-Light-20.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="SourceCodeProLight24" filename="bitmap/SourceCodePro-Light-24.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="SourceCodeProLight90" filename="bitmap/SourceCodePro-Light-90.fnt" filter="0123456789" antialias="true" />
+  <font id="SourceCodeProLight120" filename="bitmap/SourceCodePro-Light-120.fnt" filter="0123456789" antialias="true" />
+  <font id="SourceCodeProLight144" filename="bitmap/SourceCodePro-Light-144.fnt" filter="0123456789" antialias="true" />
+  <font id="SourceCodeProRegular16" filename="bitmap/SourceCodePro-Regular-16.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="SourceCodeProRegular18" filename="bitmap/SourceCodePro-Regular-18.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="SourceCodeProRegular20" filename="bitmap/SourceCodePro-Regular-20.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="SourceCodeProRegular24" filename="bitmap/SourceCodePro-Regular-24.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="SourceCodeProRegular90" filename="bitmap/SourceCodePro-Regular-90.fnt" filter="0123456789" antialias="true" />
+  <font id="SourceCodeProRegular120" filename="bitmap/SourceCodePro-Regular-120.fnt" filter="0123456789" antialias="true" />
+  <font id="SourceCodeProRegular144" filename="bitmap/SourceCodePro-Regular-144.fnt" filter="0123456789" antialias="true" />
+  <font id="ThasadithBold16" filename="bitmap/Thasadith-Bold-16.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="ThasadithBold18" filename="bitmap/Thasadith-Bold-18.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="ThasadithBold20" filename="bitmap/Thasadith-Bold-20.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="ThasadithBold24" filename="bitmap/Thasadith-Bold-24.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="ThasadithBold90" filename="bitmap/Thasadith-Bold-90.fnt" filter="0123456789" antialias="true" />
+  <font id="ThasadithBold120" filename="bitmap/Thasadith-Bold-120.fnt" filter="0123456789" antialias="true" />
+  <font id="ThasadithBold144" filename="bitmap/Thasadith-Bold-144.fnt" filter="0123456789" antialias="true" />
+  <font id="ThasadithBoldItalic16" filename="bitmap/Thasadith-BoldItalic-16.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="ThasadithBoldItalic18" filename="bitmap/Thasadith-BoldItalic-18.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="ThasadithBoldItalic20" filename="bitmap/Thasadith-BoldItalic-20.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="ThasadithBoldItalic24" filename="bitmap/Thasadith-BoldItalic-24.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="ThasadithBoldItalic90" filename="bitmap/Thasadith-BoldItalic-90.fnt" filter="0123456789" antialias="true" />
+  <font id="ThasadithBoldItalic120" filename="bitmap/Thasadith-BoldItalic-120.fnt" filter="0123456789" antialias="true" />
+  <font id="ThasadithBoldItalic144" filename="bitmap/Thasadith-BoldItalic-144.fnt" filter="0123456789" antialias="true" />
+  <font id="ThasadithItalic16" filename="bitmap/Thasadith-Italic-16.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="ThasadithItalic18" filename="bitmap/Thasadith-Italic-18.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="ThasadithItalic20" filename="bitmap/Thasadith-Italic-20.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="ThasadithItalic24" filename="bitmap/Thasadith-Italic-24.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="ThasadithItalic90" filename="bitmap/Thasadith-Italic-90.fnt" filter="0123456789" antialias="true" />
+  <font id="ThasadithItalic120" filename="bitmap/Thasadith-Italic-120.fnt" filter="0123456789" antialias="true" />
+  <font id="ThasadithItalic144" filename="bitmap/Thasadith-Italic-144.fnt" filter="0123456789" antialias="true" />
+  <font id="ThasadithRegular16" filename="bitmap/Thasadith-Regular-16.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="ThasadithRegular18" filename="bitmap/Thasadith-Regular-18.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="ThasadithRegular20" filename="bitmap/Thasadith-Regular-20.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="ThasadithRegular24" filename="bitmap/Thasadith-Regular-24.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="ThasadithRegular90" filename="bitmap/Thasadith-Regular-90.fnt" filter="0123456789" antialias="true" />
+  <font id="ThasadithRegular120" filename="bitmap/Thasadith-Regular-120.fnt" filter="0123456789" antialias="true" />
+  <font id="ThasadithRegular144" filename="bitmap/Thasadith-Regular-144.fnt" filter="0123456789" antialias="true" />
+  <font id="TiltWarpRegular16" filename="bitmap/TiltWarp-Regular-16.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="TiltWarpRegular18" filename="bitmap/TiltWarp-Regular-18.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="TiltWarpRegular20" filename="bitmap/TiltWarp-Regular-20.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="TiltWarpRegular24" filename="bitmap/TiltWarp-Regular-24.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="TiltWarpRegular90" filename="bitmap/TiltWarp-Regular-90.fnt" filter="0123456789" antialias="true" />
+  <font id="TiltWarpRegular120" filename="bitmap/TiltWarp-Regular-120.fnt" filter="0123456789" antialias="true" />
+  <font id="TiltWarpRegular144" filename="bitmap/TiltWarp-Regular-144.fnt" filter="0123456789" antialias="true" />
+  <font id="VigaRegular16" filename="bitmap/Viga-Regular-16.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="VigaRegular18" filename="bitmap/Viga-Regular-18.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="VigaRegular20" filename="bitmap/Viga-Regular-20.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="VigaRegular24" filename="bitmap/Viga-Regular-24.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="VigaRegular90" filename="bitmap/Viga-Regular-90.fnt" filter="0123456789" antialias="true" />
+  <font id="VigaRegular120" filename="bitmap/Viga-Regular-120.fnt" filter="0123456789" antialias="true" />
+  <font id="VigaRegular144" filename="bitmap/Viga-Regular-144.fnt" filter="0123456789" antialias="true" />
+</fonts>

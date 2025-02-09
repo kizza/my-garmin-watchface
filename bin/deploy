@@ -1,0 +1,10 @@
+#!/usr/bin/env zsh
+
+heading "Deploying app..."
+
+APPNAME=`grep entry manifest.xml | sed 's/.*entry="\([^"]*\).*/\1/'`
+ditto "./dist/$APPNAME.prg" "/Volumes/GARMIN/Garmin/Apps/$APPNAME.prg"
+donetick "Deployed"
+
+diskutil eject GARMIN
+donetick "Unmounted"

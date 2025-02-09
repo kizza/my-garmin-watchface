@@ -1,0 +1,17 @@
+#!/usr/bin/env zsh
+
+# Read the content of Theme.mc
+theme_content=$(grep -v '//' source/Modules/Theme.mc)
+
+# Process fonts.available.xml and generate fonts.xml with only matching fonts
+awk -v theme="$theme_content" '
+BEGIN { print "<fonts>" }
+/<font / {
+    match($0, /id="([^"]+)"/, m)
+    if (m[1] == "IconFont" || (m[1] && index(theme, m[1]) > 0)) {
+        print $0  # Keep matching lines
+    }
+    next
+}
+END { print "</fonts>" }
+' source/Fonts/fonts.available.xml > resources/fonts/fonts.xml

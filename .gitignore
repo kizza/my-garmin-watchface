@@ -1,0 +1,12 @@
+.DS_Store
+.keys
+dist
+
+# Don't track fontbm
+bin/fontbm
+
+# Don't persist bitmap fonts
+resources/fonts/bitmap/*
+
+# Don't persist true type fonts
+source/Fonts/ttf/*

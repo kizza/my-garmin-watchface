@@ -1,0 +1,7 @@
+<fonts>
+  <font id="IconFont" filename="icons.fnt" filter="0123456789" antialias="true" />
+  <font id="AdventProRegular24" filename="bitmap/AdventPro-Regular-24.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+  <font id="AdventProRegular120" filename="bitmap/AdventPro-Regular-120.fnt" filter="0123456789" antialias="true" />
+  <font id="AdventProThin120" filename="bitmap/AdventPro-Thin-120.fnt" filter="0123456789" antialias="true" />
+  <font id="BalooBhaina2Regular16" filename="bitmap/BalooBhaina2-Regular-16.fnt" filter="0123456789 ABCDEFGHIJKLMNOPQRSTUVWQYZabcdefghijklmnopqrstuvwqyz" antialias="true" />
+</fonts>

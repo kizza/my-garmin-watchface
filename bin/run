@@ -1,0 +1,31 @@
+#!/usr/bin/env zsh
+
+DEVICE=vivoactive3
+APPNAME=`grep entry manifest.xml | sed 's/.*entry="\([^"]*\).*/\1/'`
+PRIVATE_KEY=.keys/developer_key.der
+
+cleanup() {
+  echo "Stopping Garmin simulator..."
+  pkill simulator
+  exit 0
+}
+
+donetick "Configuring fonts..."
+bin/configure_fonts
+
+donetick "Buliding $APPNAME for $DEVICE..."
+monkeyc --warn --output dist/${APPNAME}.prg -y ${PRIVATE_KEY} -f monkey.jungle -d ${DEVICE}
+if [ $? -ne 0 ]; then
+  echo "${RED}${CROSS} Build failed${RESET}" 2>&1
+  return 1 # Or exit 1, depending on the script context
+fi
+
+pkill simulator
+if ! pgrep -x "simulator" > /dev/null; then
+  donetick "Opening simulator..."
+  bin/simulator
+  sleep 5
+fi
+
+donetick "Running $APPNAME on $DEVICE..."
+monkeydo dist/${APPNAME}.prg ${DEVICE}

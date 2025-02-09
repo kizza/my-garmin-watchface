@@ -1,0 +1,4 @@
+#!/usr/bin/env zsh
+
+heading "Watching..."
+find source/ resources/ | entr -r bin/run
